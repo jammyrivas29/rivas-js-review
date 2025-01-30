@@ -1,2 +1,4 @@
 # Javascript Review Project by Jammy Rivas
-JAMMY RIVAS
+Hi JAMMY RIVAS BSIT-3
+
+# Updating the file
